@@ -21,7 +21,7 @@ body{
     padding: 30px;
 }
 .sidebar h2{
-    color: #0c7d71;
+    color: #1c3150;
     margin-bottom: 30px;
 }
 .sidebar ul{
@@ -35,7 +35,7 @@ body{
     transition: .3s;
 }
 .sidebar li:hover{
-    background: #0c7d71;
+    background: #1c3150;
     color: #fff;
 }
 .sidebar i{
@@ -70,10 +70,10 @@ body{
     border-bottom: 1px solid #eee;
 }
 .titulo h2{
-    color: #0c7d71;
+    color: #1c3150;
 }
 button{
-    background: #0c7d71;
+    background: #1c3150;
     color: white;
     border: none;
     padding: 10px 20px;
@@ -82,7 +82,7 @@ button{
     transition: .3s;
 }
 button:hover{
-    background-color: #096157;
+    background-color: #345b96;
 }
 
 /*aula*/
@@ -102,10 +102,10 @@ button:hover{
     background: #f8f8f8;
 }
 .concluida{
-    color: #0c7d71;
+    color: #1c3150;
     font-weight: bold;
 }
 .concluida i{
-    color: green;
+    color: #1c3150;
     font-size: 20px;
 }
