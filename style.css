@@ -5,7 +5,7 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 body{
-    background-color: #f4e3df;
+    background-color: #b8b8b8;
 }
 .container{
     display: flex;
@@ -51,7 +51,7 @@ body{
 }
 .conteudo h1{
     margin-bottom: 30px;
-    color: #333;
+    color: #1c3150;
 }
 
 /*modulos*/
@@ -99,7 +99,8 @@ button:hover{
     border-bottom: none;
 }
 .aula:hover{
-    background: #f8f8f8;
+    background: #e0e0e0;
+    trasition: .3s;
 }
 .concluida{
     color: #1c3150;
